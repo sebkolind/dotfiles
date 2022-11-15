@@ -1,3 +1,4 @@
+-- All credits for this to https://github.com/nvim-treesitter/nvim-treesitter/issues/1111#issuecomment-1216655480
 local M = {}
 
 local tbl = {}
